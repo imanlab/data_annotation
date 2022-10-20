@@ -1,0 +1,5 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+2.png,1299542,"{}",4,0,"{""name"":""rect"",""x"":950,""y"":377,""width"":178,""height"":177}","{""scheduling"":""1"",""occlusion"":""neither""}"
+2.png,1299542,"{}",4,1,"{""name"":""rect"",""x"":459,""y"":478,""width"":98,""height"":121}","{""scheduling"":""2"",""occlusion"":""neither""}"
+2.png,1299542,"{}",4,2,"{""name"":""rect"",""x"":347,""y"":463,""width"":109,""height"":124}","{""scheduling"":""3"",""occlusion"":""neither""}"
+2.png,1299542,"{}",4,3,"{""name"":""rect"",""x"":252,""y"":412,""width"":110,""height"":128}","{""scheduling"":""4"",""occlusion"":""neither""}"
